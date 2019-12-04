@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1008598648770",
+    "firebase_url": "https://karteikarte-f6c36.firebaseio.com",
+    "project_id": "karteikarte-f6c36",
+    "storage_bucket": "karteikarte-f6c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008598648770:android:80b2bc10e7ea5e12d9b85b",
+        "android_client_info": {
+          "package_name": "com.dude.karteikarten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008598648770-i7bbcae3vm2secr3gempd6f7f2tiiifq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dude.karteikarten",
+            "certificate_hash": "9b7b3ef4bc4c7b9710a8ad0a5e6c097cb4b88c0a"
+          }
+        },
+        {
+          "client_id": "1008598648770-khna3b8sshuhenk81jrfdfdo1jv62v3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8zu5iMV6hnQfepglcAXkz5-AsTY-HHvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008598648770-khna3b8sshuhenk81jrfdfdo1jv62v3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

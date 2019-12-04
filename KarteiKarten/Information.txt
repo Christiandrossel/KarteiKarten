@@ -1,0 +1,20 @@
+Problem JSON Baumdiagramm:
+Lösung am Beispiel
+
+Christian
+	Geschichte "Beschreibung was alles reingehört"
+		dsfljhasjfl
+			antwort: "BLABLABLA"
+			frage: "BLABLABLA"
+			id: "01"
+		jsdkfhlkajsdhf
+			antwort:
+			frage:
+			id
+
+wenn die Lektion Geschichte angeklickt wird, dann kann überprüft werden
+mit equal("Geschichte")... für alle Karten die da rein gehören
+
+1. Lese Titles aus DB und setze sie als Button an, hier könnte ich jeden Button eine ID geben
+2. beim anklicken: lese alle objekte mit den Pfad: Christian/Geschichte
+3. 
