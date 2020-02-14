@@ -3,6 +3,7 @@ Mit dieser App kann man auf der Cloud Karteikarten Speichern, diese wieder herun
 
 Startbildschirm der App
 
+<img src="/Images/Start_Screen.jpg" alt="Screen" width="20"/>
 ![Images](/Images/Start_Screen.jpg)
 
 
