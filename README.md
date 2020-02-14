@@ -3,30 +3,30 @@ Mit dieser App kann man auf der Cloud Karteikarten Speichern, diese wieder herun
 
 Startbildschirm der App
 
-![Alt-Text](/Images/Start_Screen.jpg.jpg)
+![Image](/Images/Start_Screen.jpg = 250x)
 
 
 Auf den Start-Button geklickt, werden die Kategorien aus der Datenbank abgefragt und angezeigt, dies kann je nach Internetverbindung ein paar Sekunden dauern
 
-![Alt-Text](/Images/Kategorien.jpg)
+![Image](/Images/Kategorien.jpg = 250x)
 
 
 Wenn nun eine Kategorie ausgewählt wurde, dann werden die Karteikarten angezeigt. Beginnend mit der ersten Frage
 
-![Alt-Text](/Images/LernKarte_Frage.jpg)
+![Image](/Images/LernKarte_Frage.jpg = 250x)
 
 Dann die Antwort
 
-![Alt-Text](/Images/LernKarte_Antwort.jpg)
+![Image](/Images/LernKarte_Antwort.jpg = 250x)
 
 
 Wenn man auf Bearbeiten im Startmenue geklickt hat
 
-![Alt-Text](/Images/Bearbeitungsmenue.jpg.jpg)
+![Image](/Images/Bearbeitungsmenue.jpg = 250x)
 
 Dort kann mann auf eine gewünschte Kategorie auswählen und in ein bearbeitungsmenue für die Kategorie gelangen
 
-![Alt-Text](/Images/Bearbeitungsmenue_der_Kategorie.jpg)
+![Image](/Images/Bearbeitungsmenue_der_Kategorie.jpg = 250x)
 
 
 
