@@ -3,7 +3,7 @@ Mit dieser App kann man auf der Cloud Karteikarten Speichern, diese wieder herun
 
 Startbildschirm der App
 
-![Image](/Images/Start_Screen.jpg {width=40px height=400px})
+![Images](/Images/Start_Screen.jpg {width=40px height=400px})
 
 
 Auf den Start-Button geklickt, werden die Kategorien aus der Datenbank abgefragt und angezeigt, dies kann je nach Internetverbindung ein paar Sekunden dauern
